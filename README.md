@@ -28,3 +28,9 @@ store.json
     2. tplPath reportlets/fvs/3D产线流程看板.fvs 联合   ee9040023b1c2d761edc83e7727feb7c.calder(即.babylon文件 被解析成Mesh)
 
 ```
+
+## 资源
+
+- [帆软市场-FineVis数据可视化-下载页面](https://market.fanruan.com/plugin/2b55753a-3d27-45cc-997b-e450b6c33fbc)
+- [下载](https://shopps.finereport.com/com.fr.plugin.wysiwyg.v11-3.2.1.zip)
+- 在解压的`plugin-com.fr.plugin.wysiwyg.v11-3.2.1/plugin-com.fr.plugin.wysiwyg.v11-3.2.1/com/fr/plugin/wysiwyg/web/calder`目录下找到各种贴图材质资源
