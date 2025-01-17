@@ -1,8 +1,8 @@
 # 帆软calder逆向
->
-> calder 等同于 babylon
 
-[3D产线流程看板DEMO](https://finemaxdemo.fanruan.com/decision/v10/entry/access/ac1a7bf7-34b3-42dc-8455-2d5cce1b5ba4?preview=true&page_number=1)
+- [下载DEMO解包可得到资源(.mfvs或.fvs都是压缩包)](https://market.fanruan.com/template/20000714/)
+- calder 等同于 babylon
+- [3D产线流程看板DEMO](https://finemaxdemo.fanruan.com/decision/v10/entry/access/ac1a7bf7-34b3-42dc-8455-2d5cce1b5ba4?preview=true&page_number=1)
 
 ## 对Babylon.js的扩展
 
@@ -22,7 +22,6 @@
 ## JSON解析流程
 
 ```js
-
 store.json
     1. configFile 得到 7x-lqgd7PJISU2BWulAlgWjmw==.json 3D场景描述文件(包含很多可以在在Babylon.js Node Material Editor.用的对象被解析成材质 和 各种效果)
     2. tplPath reportlets/fvs/3D产线流程看板.fvs 联合   ee9040023b1c2d761edc83e7727feb7c.calder(即.babylon文件 被解析成Mesh)
