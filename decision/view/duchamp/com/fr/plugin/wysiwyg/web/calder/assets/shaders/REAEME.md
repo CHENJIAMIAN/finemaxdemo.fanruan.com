@@ -1,3 +1,4 @@
+https://projects.staging.blender.org/blender/blender/src/tag/v4.1.1/source/blender/draw/engines/eevee/shaders/effect_bloom_frag.glsl#
 https://github.com/blender/blender/blob/main/source/blender/compositor/shaders/compositor_glare_bloom_downsample.glsl
 
 是的，这个实现 **非常类似** 并且很可能就是 **改造 (modified/adapted) 过来的**。
