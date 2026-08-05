@@ -1,3 +1,11 @@
+[English](./README.en.md)
+
+<!-- codex-github-rules:bilingual-summary -->
+> **中文简介**：帆软 Calder 逆向研究及 3D 产线流程看板演示
+>
+> **English summary**: Reverse engineering of FanRuan Calder with a 3D production-line dashboard demo
+
+---
 # 帆软calder逆向
 
 - [下载DEMO解包可得到资源(.mfvs或.fvs都是压缩包)](https://market.fanruan.com/template/20000714/)
